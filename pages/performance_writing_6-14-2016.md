@@ -4,13 +4,13 @@ title: performance writing 6-14-2016
 
 still heavy with the news about the orlando club shooting.
 
-...watched [women in revolt](/women_in_revolt "wikilink") last night. heavy. awkward. didn't specifically see sissy spacek.
+...watched [women in revolt](women_in_revolt.md) last night. heavy. awkward. didn't specifically see sissy spacek.
 
-[exercise videoz](/exercise_videoz "wikilink") and [parallel beatz](/parallel_beatz "wikilink") have been slowly coming together
+exercise videoz and parallel beatz have been slowly coming together
 
 the wedge between ontology and epistemology
 
-other \#TODOz: revision of korn's [fagget](/fagget "wikilink")
+other \#TODOz: revision of korn's [fagget](fagget.md)
 
 <https://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>
 
@@ -30,7 +30,6 @@ other \#TODOz: revision of korn's [fagget](/fagget "wikilink")
 
 Sunday, April 10, 1977
 
-[<File:Screen> Shot 2016-06-14 at 4.33.20 PM.png](/File:Screen_Shot_2016-06-14_at_4.33.20_PM.png "wikilink")
 
 control. control of self. schizophrenic. desiring machine. paranoia machine.
 
@@ -38,7 +37,7 @@ using anesthetic to disable socially programmed movements/responses. but finding
 
 dana michel yellow towel <https://vimeo.com/69939175>
 
-[text to speech 2016-6-14-15-33](/text_to_speech_2016-6-14-15-33 "wikilink")
+[text to speech 2016-6-14-15-33](/text_to_speech_2016-6-14-15-33.md)
 
 what to post online.
 

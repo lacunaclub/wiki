@@ -2,7 +2,7 @@
 title: june 15, 2016 Desire revile: An interdisciplinary performance workshop (part 1)
 ---
 
-LEAD BY [lorene bouboushian](/lorene_bouboushian "wikilink")
+LEAD BY lorene bouboushian
 
 As an interdisciplinary, improvisational performer and workshop facilitator, I am captivated by the underlying motives for any action. In workshops and lab-based environments, often it is assumed that we should follow our “interests” or “intentions,” when in fact our in-the-moment actions are a result not of clear-cut decisions but our relationship to the organism of bodies, room and objects around us colliding with what’s inside us. What do we want and why? What if we derailed ourselves, worked with our own insincerity, faked ourselves out, played tricks? Is it possible to create a realm where all is valid and nothing is right? For anyone interested in performing, from any discipline. Bring objects you are interested in.
 
@@ -11,8 +11,6 @@ here is a more general description and some video of past classes. this refers t
 SUGGESTED DONATION (snackz provided!)
 
 PART TWO ON WEDNESDAY, JUNE 22, 7PM <https://www.facebook.com/events/1037070396380624/>
-
-[500px](/File:cropped-lorene3.jpg "wikilink")
 
 photo credit ying liu
 

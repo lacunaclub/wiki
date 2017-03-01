@@ -2,7 +2,7 @@
 title: 5-1-2016 Alex Romania & FUTURE DEATH AGENCY
 ---
 
-[alex romania](/alex_romania "wikilink") (NYC) & [future death agency](/future_death_agency "wikilink") (PDX)
+alex romania (NYC) & future death agency (PDX)
 
 SUNDAY, MAY 1, 2016 \~7PM
 
@@ -28,7 +28,7 @@ Humans engage in radical, normalized, spiritual, and institutionalized actions e
 
 photo's are by Daniela Sanchez
 
-[future death agency](/future_death_agency "wikilink") <http://futuredeath.agency/>
+future death agency <http://futuredeath.agency/>
 
 isolation
 

@@ -2,15 +2,15 @@
 title: performance writing 6-12-2016
 ---
 
-[3dwardsharp](/3dwardsharp "wikilink") & [lorene bouboushian](/lorene_bouboushian "wikilink")
+[3dwardsharp](3dwardsharp.md ) & [lorene bouboushian](lorene_bouboushian.md)
 
 research rehearsal or really to reify, anything
 
-[Community](/Community "wikilink") [Capitalism](/Capitalism "wikilink")
+Community Capitalism
 
-Capitol-ism/[Autocorrect](/Autocorrect "wikilink")
+Capitol-ism/[Autocorrect](autocorrect.md)
 
-engagement, involvement, involvement as [mutation](/mutation "wikilink").
+engagement, involvement, involvement as mutation.
 
 practice, praxis, survival
 
@@ -62,22 +62,22 @@ i think that a chat-room style scrolling feed of text would be interesting. like
 
 ...so that's gonna be 1 locker & 0 cabbinz, is there anything else you'd like to order? nope? please pull forward.
 
-From [esther neff](/esther_neff "wikilink") <http://thefenserf.tumblr.com/> we self-organize in context as parallax/autonomous ideologues and zealots who are psychotically willing to risk everything dominantly perceived-as-valuable. Future gain (towards whatever idealistic agenda) and fulfillment of interests (in whatever impossible future utopian situation) are worth far more to us than any immediate loss of assets or safety. More simply, we do not find the threat of homelessness, being ignored, having bedbugs, never being able to have kids, going to bed hungry, being stuck in one place, etc as enough of a loss to justify a sell-out. We operate in states of romantic delusion, political rage, and though we may panic constantly, we still refuse to sell our bodies or our minds into valuation schemas bent on de-valuing bodies into identity-objects, homogenizing conceptualizations, and capitalizing-upon our very processes of moving, thinking, feeling, being. We do not objectify ourselves or our “workings” into asset-products at all, we grit our teeth and keep intentionally performing in time-space, directly real-izing our values/valuations.
+From [esther neff](esther_neff.md) <http://thefenserf.tumblr.com/> we self-organize in context as parallax/autonomous ideologues and zealots who are psychotically willing to risk everything dominantly perceived-as-valuable. Future gain (towards whatever idealistic agenda) and fulfillment of interests (in whatever impossible future utopian situation) are worth far more to us than any immediate loss of assets or safety. More simply, we do not find the threat of homelessness, being ignored, having bedbugs, never being able to have kids, going to bed hungry, being stuck in one place, etc as enough of a loss to justify a sell-out. We operate in states of romantic delusion, political rage, and though we may panic constantly, we still refuse to sell our bodies or our minds into valuation schemas bent on de-valuing bodies into identity-objects, homogenizing conceptualizations, and capitalizing-upon our very processes of moving, thinking, feeling, being. We do not objectify ourselves or our “workings” into asset-products at all, we grit our teeth and keep intentionally performing in time-space, directly real-izing our values/valuations.
 
 Zeitgeist of performance art now [this is truly bullshit] Ideals and beliefs vs. mood Or as mood Vs General lack of belief Belief in ‘my’ ‘self’ And lack of belief in ‘the world’
 
 movies
 ------
 
-[sissy spacek](/sissy_spacek "wikilink")
+sissy spacek
 
-[trading mom](/trading_mom "wikilink") (or the mummy market)
+[trading mom](trading_mom.md) (or the mummy market)
 
-[hot rod](/hot_rod "wikilink")
+[hot rod](/hot_rod.md)
 
 kenneth anger
 
-[lucifer rising](/lucifer_rising "wikilink")
+lucifer rising
 
 that one time kenneth anger pulled someone (female?) by their hair outside because kenneth anger wanted them to pay for the cab. <https://en.wikipedia.org/wiki/Kenneth_Anger#cite_ref-83>
 

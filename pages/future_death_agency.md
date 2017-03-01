@@ -2,7 +2,7 @@
 title: future death agency
 ---
 
-future death agency is a offshoot of the project of similar name, [future death toll](/future_death_toll "wikilink"), that is primarily initiated by [3dwardsharp](/3dwardsharp "wikilink") as solo or in collaboration with [sidony o'neal](/sidony_o'neal "wikilink"), and [tippi](/tippi "wikilink").
+future death agency is a offshoot of the project of similar name, [future death toll](future_death_toll.md), that is primarily initiated by [3dwardsharp](3dwardsharp.md) as solo or in collaboration with sidony o'neal, and tippi.
 
 linkz
 -----
