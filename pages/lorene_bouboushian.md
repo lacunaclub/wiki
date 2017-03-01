@@ -1,6 +1,5 @@
 ---
 title: lorene bouboushian
-permalink: /lorene_bouboushian/
 ---
 
 linkz

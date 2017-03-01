@@ -1,6 +1,5 @@
 ---
 title: future death toll
-permalink: /future_death_toll/
 ---
 
 future death toll is a throbbing mess of noise that eatz technology and shitz performance art.

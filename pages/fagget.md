@@ -1,6 +1,5 @@
 ---
 title: fagget
-permalink: /fagget/
 ---
 
 HIV!

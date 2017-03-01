@@ -1,6 +1,5 @@
 ---
 title: lacuna
-permalink: /lacuna/
 ---
 
 Circus · Performing Arts Education · Art School

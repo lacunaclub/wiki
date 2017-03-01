@@ -1,6 +1,5 @@
 ---
 title: june 15, 2016 Desire revile: An interdisciplinary performance workshop (part 1)
-permalink: /june_15,_2016_Desire/revile:_An_interdisciplinary_performance_workshop_(part_1)/
 ---
 
 LEAD BY [lorene bouboushian](/lorene_bouboushian "wikilink")

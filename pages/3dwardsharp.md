@@ -1,6 +1,5 @@
 ---
 title: 3dwardsharp
-permalink: /3dwardsharp/
 ---
 
 linkz

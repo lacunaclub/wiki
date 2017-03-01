@@ -1,6 +1,5 @@
 ---
 title: performance writing 6-18-2016
-permalink: /performance_writing_6-18-2016/
 ---
 
 so the last few days, what have they been?

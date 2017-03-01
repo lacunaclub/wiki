@@ -1,6 +1,5 @@
 ---
 title: performance writing 6-14-2016
-permalink: /performance_writing_6-14-2016/
 ---
 
 still heavy with the news about the orlando club shooting.

@@ -5,14 +5,6 @@
 
 [5-1-2016_Alex_Romania_&_FUTURE_DEATH_AGENCY](5-1-2016_Alex_Romania_&_FUTURE_DEATH_AGENCY.md)
 
-[Talk:5-1-2016_Alex_Romania_&_FUTURE_DEATH_AGENCY](Talk:5-1-2016_Alex_Romania_&_FUTURE_DEATH_AGENCY.md)
-
-[Talk:main_page](Talk:main_page.md)
-
-[Talk:performance_writing_6-14-2016](Talk:performance_writing_6-14-2016.md)
-
-[Tranding_mom](Tranding_mom.md)
-
 [a_minor_public](a_minor_public.md)
 
 [autocorrect](autocorrect.md)

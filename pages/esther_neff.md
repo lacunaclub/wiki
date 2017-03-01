@@ -1,6 +1,5 @@
 ---
 title: esther neff
-permalink: /esther_neff/
 ---
 
 based in brooklyn, ny. panoply performance laboratory

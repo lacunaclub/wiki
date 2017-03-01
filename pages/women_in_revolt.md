@@ -1,6 +1,5 @@
 ---
 title: women in revolt
-permalink: /women_in_revolt/
 ---
 
 produced by [andy warhol](/andy_warhol "wikilink"). stars [jackie curtis](/jackie_curtis "wikilink"), [candy darling](/candy_darling "wikilink") and [holly woodlawn](/holly_woodlawn "wikilink")

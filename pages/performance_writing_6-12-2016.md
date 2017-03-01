@@ -1,6 +1,5 @@
 ---
 title: performance writing 6-12-2016
-permalink: /performance_writing_6-12-2016/
 ---
 
 [3dwardsharp](/3dwardsharp "wikilink") & [lorene bouboushian](/lorene_bouboushian "wikilink")

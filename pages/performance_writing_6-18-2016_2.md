@@ -1,6 +1,5 @@
 ---
 title: performance writing 6-18-2016 2
-permalink: /performance_writing_6-18-2016_2/
 ---
 
 also

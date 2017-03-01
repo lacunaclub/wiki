@@ -1,6 +1,5 @@
 ---
 title: trading mom
-permalink: /trading_mom/
 ---
 
 a.k.a. the mummy market (the novel this film is based on)

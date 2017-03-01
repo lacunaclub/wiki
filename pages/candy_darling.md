@@ -1,6 +1,5 @@
 ---
 title: candy darling
-permalink: /candy_darling/
 ---
 
 reference

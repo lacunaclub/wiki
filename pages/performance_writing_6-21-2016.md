@@ -1,6 +1,5 @@
 ---
 title: performance writing 6-21-2016
-permalink: /performance_writing_6-21-2016/
 ---
 
 some writing-thinking on the workshop i'm teaching.
