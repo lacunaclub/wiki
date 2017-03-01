@@ -1,6 +1,4 @@
----
-title: women in revolt
----
+# women in revolt
 
 produced by andy warhol. stars jackie curtis, [candy darling](candy_darling.md) and [holly woodlawn](holly_woodlawn.md)
 

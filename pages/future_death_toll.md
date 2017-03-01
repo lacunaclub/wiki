@@ -1,6 +1,4 @@
----
-title: future death toll
----
+# future death toll
 
 future death toll is a throbbing mess of noise that eatz technology and shitz performance art.
 

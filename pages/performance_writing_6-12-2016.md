@@ -1,6 +1,4 @@
----
-title: performance writing 6-12-2016
----
+# performance writing 6-12-2016
 
 [3dwardsharp](3dwardsharp.md ) & [lorene bouboushian](lorene_bouboushian.md)
 

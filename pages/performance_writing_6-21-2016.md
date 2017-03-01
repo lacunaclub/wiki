@@ -1,6 +1,6 @@
----
-title: performance writing 6-21-2016
----
+# performance writing 6-21-2016
+
+[lorene_bouboushian](lorene_bouboushian.md)
 
 some writing-thinking on the workshop i'm teaching.
 

@@ -1,6 +1,4 @@
----
-title: performance writing 6-18-2016
----
+# performance writing 6-18-2016
 
 so the last few days, what have they been?
 

@@ -1,6 +1,4 @@
----
-title: a minor public
----
+# a minor public
 
 these sort of "open-mic" performance eventz where people come and gather and show/interact/operate/see/do some small performance.
 

@@ -1,6 +1,4 @@
----
-title: trading mom
----
+# trading mom
 
 a.k.a. the mummy market (the novel this film is based on)
 

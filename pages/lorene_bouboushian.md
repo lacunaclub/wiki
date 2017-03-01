@@ -1,6 +1,4 @@
----
-title: lorene bouboushian
----
+# lorene bouboushian
 
 linkz
 -----

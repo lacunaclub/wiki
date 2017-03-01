@@ -1,6 +1,4 @@
----
-title: june 15, 2016 Desire revile: An interdisciplinary performance workshop (part 1)
----
+# june 15, 2016 Desire revile: An interdisciplinary performance workshop (part 1)
 
 LEAD BY lorene bouboushian
 

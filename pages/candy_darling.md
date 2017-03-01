@@ -1,6 +1,4 @@
----
-title: candy darling
----
+# candy darling
 
 reference
 ---------

@@ -1,6 +1,4 @@
----
-title: performance writing 6-14-2016
----
+# performance writing 6-14-2016
 
 still heavy with the news about the orlando club shooting.
 

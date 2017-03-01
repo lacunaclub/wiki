@@ -1,6 +1,4 @@
----
-title: lacuna
----
+# lacuna
 
 Circus · Performing Arts Education · Art School
 
@@ -20,6 +18,12 @@ archive
 
 linkz
 -----
+
+<https://github.com/lacunaclub/wiki>
+
+<https://lacunaclub.github.io/wiki/>
+
+<http://lacuna.club/>
 
 <http://lacunaclub.tumblr.com/>
 

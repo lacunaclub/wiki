@@ -1,6 +1,4 @@
----
-title: performance writing 6-18-2016 2
----
+# performance writing 6-18-2016 2
 
 also
 

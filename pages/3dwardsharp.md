@@ -1,6 +1,5 @@
----
-title: 3dwardsharp
----
+# 3dwardsharp
+
 
 linkz
 -----

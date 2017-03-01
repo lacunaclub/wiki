@@ -1,6 +1,4 @@
----
-title: june 22, 2016 Desire revile: An interdisciplinary performance workshop (part 2)
----
+# june 22, 2016 Desire revile: An interdisciplinary performance workshop (part 2)
 
 <https://www.facebook.com/events/1037070396380624/>
 
