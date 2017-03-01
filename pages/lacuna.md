@@ -9,13 +9,6 @@ location
 
 google maps link: <https://goo.gl/ohWZKY>
 
-archive
--------
-
-<http://archive.lacuna.club>
-
-<http://archive.lacuna.club/archive.html>
-
 linkz
 -----
 
