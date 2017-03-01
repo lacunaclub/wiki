@@ -17,7 +17,7 @@
 
 [autocorrect](autocorrect.md)
 
-[candy_darling](candy_darling.md)
+[candy darling](candy_darling.md)
 
 [crimes_of_the_heart_(film)](crimes_of_the_heart_(film).md)
 
@@ -33,9 +33,9 @@
 
 [hot_rod](hot_rod.md)
 
-[june_15,_2016_Desire/revile:_An_interdisciplinary_performance_workshop_(part_1)](june_15,_2016_Desire/revile:_An_interdisciplinary_performance_workshop_(part_1).md)
+[june 15, 2016 Desire/revile: An interdisciplinary performance workshop (part 1)](desirerevile_An_interdisciplinary_performance_workshop_part_1.md)
 
-[june_22,_2016_Desire/revile:_An_interdisciplinary_performance_workshop_(part_2)](june_22,_2016_Desire/revile:_An_interdisciplinary_performance_workshop_(part_2).md)
+[june 22, 2016 Desire/revile: An interdisciplinary performance workshop (part 2)](desirerevile_An_interdisciplinary_performance_workshop_part_2.md)
 
 [lacuna](lacuna.md)
 
